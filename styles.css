@@ -144,3 +144,44 @@ h3{
     font-weight: 500;
     align-self: flex-end;
 }
+
+/* Styles for block 5 --------------------------------------- */
+
+.action{
+    background-color: #F9FAF8;
+    padding: 100px 15%;
+}
+
+.details p{
+    margin: 0;
+   
+}
+
+
+.details h4{
+    margin: 0;
+}
+
+
+.cta{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #F9FAF8;
+    background-color: #3882F6;
+    padding: 50px 120px;
+    gap: 20px;
+    border-radius: 6px;
+}
+
+.signup{
+    flex-shrink: 0;
+    background-color: transparent;
+    border: 2px solid #F9FAF8;
+    border-radius: 4px;
+    color: #F9FAF8;
+    padding: 8px 32px;
+    font-family: inherit;
+    font-weight: 700;
+
+}
