@@ -85,3 +85,38 @@ a{
     border-style: none;
     border-radius: 8px;
 }
+
+
+
+/* Info Section--------------------------------------------------> */
+
+h3{
+    text-align: center;
+}
+
+.boxcontainer{
+    display: flex;
+    gap: 50px;
+    padding: 20px 100px;
+    justify-content: center;
+    
+}
+
+.chunk{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+    width: 170px;
+}
+
+
+
+
+.box{
+    width: 170px;
+    height: 170px;
+    border: 3px solid #3882F6 ;
+    border-radius: 8px;
+}
